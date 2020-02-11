@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "auth.params.jwt_expiration_period",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.params.jwt_expiration_period'"
+  },
+  {
+    "name": "springbootwebfluxjjwt.jjwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'springbootwebfluxjjwt.jjwt.secret'"
+  },
+  {
+    "name": "springbootwebfluxjjwt.password.encoder.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'springbootwebfluxjjwt.password.encoder.secret'"
+  },
+  {
+    "name": "springbootwebfluxjjwt.password.encoder.iteration",
+    "type": "java.lang.String",
+    "description": "A description for 'springbootwebfluxjjwt.password.encoder.iteration'"
+  },
+  {
+    "name": "springbootwebfluxjjwt.jjwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'springbootwebfluxjjwt.jjwt.expiration'"
+  },
+  {
+    "name": "springbootwebfluxjjwt.password.encoder.keylength",
+    "type": "java.lang.String",
+    "description": "A description for 'springbootwebfluxjjwt.password.encoder.keylength'"
+  },
+  {
+    "name": "springbootwebfluxjjwt.password.encoder.default",
+    "type": "java.lang.String",
+    "description": "A description for 'springbootwebfluxjjwt.password.encoder.default'"
+  },
+  {
+    "name": "springbootwebfluxjjwt.password.bcryptencoder.strength",
+    "type": "java.lang.String",
+    "description": "A description for 'springbootwebfluxjjwt.password.bcryptencoder.strength'"
+  },
+  {
+    "name": "springbootwebfluxjjwt.jjwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'springbootwebfluxjjwt.jjwt.secret'"
+  }
+]}
